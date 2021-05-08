@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Ubuntu&display=swap');
+
+body {
+    color: #336699;
+    text-align: center;
+    background-image: url('https://image.freepik.com/free-photo/handsome-man-white-t-shirt-transperent-glasses-hold-big-clock-place-his-head_231208-6085.jpg');
+    padding-top: 18%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1 {
+    font-size: 28px;
+    font-family: 'Itim', cursive;
+  }
+  h2 {
+    font-size: 24px;
+    padding-bottom: 10px;
+    font-family: 'Itim', cursive;
+  }
+  button {
+    border: none;
+    color: #d9e6f2;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+  }
